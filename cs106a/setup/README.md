@@ -27,6 +27,17 @@ Package manager for macOS
 
 - 为啥要安装homebrew：这是macOS下的包管理工具，我们可以用homebrew来安装各种东东
 
+## Install the zsh(Recommend)
+```bash
+# Install zsh via homebrew
+brew install zsh
+
+# 安装完成后输入以下命令，如果成功输出版本号，就代表你安装成功了
+zsh --version
+```
+
+- What is `zsh`：A shell with a lot of features that makes you HIGHLY PRODUCTIVE 
+
 ## Install Python3
 ```bash
 # install python3 via homebrew 
