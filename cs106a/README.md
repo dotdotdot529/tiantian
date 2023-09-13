@@ -5,5 +5,5 @@ It is a place to help you learning CS106A
 
 
 # How to use the repository
-- Go to `setup` folder to setup your environment
+- Go to [setup](setup/README.md) folder to setup your environment
 - 
