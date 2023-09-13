@@ -18,7 +18,7 @@ The macOS Terminal Replacement
 - 为啥有了terminal还来个这：对官方自带的terminal不满意呗
 
 ## Install homebrew
-Package manager for MacOS
+Package manager for macOS
 > you may also want to access https://brew.sh/
 ```bash
 # Install by entering the following command into your terminal
