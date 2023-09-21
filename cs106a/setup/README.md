@@ -25,7 +25,20 @@ Package manager for macOS
 ## Install Python3
 ```bash
 # install python3 via homebrew 
+# 打开你的terminal输入以下指令
 brew install python3
-```
 
+# enter the following command to verify the installation
+python --version
+```
 - 这时候就可以通过homebrew轻松的安装好python了
+
+## Install IDE
+> go to https://code.visualstudio.com/
+- 你未来将用这个工具来写代码
+- 为什么用这个，而不是用`Text Editor`
+  - 它提供了很多Feature，举例
+    - Syntax-Highlight：帮助你
+    - Auto-Completion：自动补全你的代码
+    - Format：将你的代码自动格式化，变的整齐
+    - Static-Checking：自动检测你在代码编写中出现的错误
