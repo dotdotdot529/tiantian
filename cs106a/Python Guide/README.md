@@ -50,3 +50,16 @@ TypeError: can only concatenate str (not "int") to str
 ```bash
 Enter Ctrl+D to abort the process
 ```
+
+# Variable
+> A variable is created with an "assignment" equal sign =, with the variable's name on the left and the value it should store on the right:
+
+```python
+x = 520
+
+# print it to verify
+print("The value of x is ", x)
+```
+- 当你完成上述编码后，到底发生了什么？
+  - 内存中会有一个地方存储着42这个值，这个地方在计算机科学里叫做地址
+  - 你的程序会知道以x命名的这个变量，它的地址在哪，以及它的类型
